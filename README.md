@@ -4,7 +4,6 @@ An implementation of jointGAN on toy data 	[https://arxiv.org/abs/1806.02978](ht
 ## Dependencies
 - `python 2.7 or 3.5`
 - `TensorFlow 1.0.0`
-- `TensorFlow 1.0.0`
 - `tqdm`
 - `matplotlib`
 
